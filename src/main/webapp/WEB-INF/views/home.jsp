@@ -7,6 +7,7 @@
 <body>
 <h1>
 	Hello world! This is first example...
+	and this is the second sentence...
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
